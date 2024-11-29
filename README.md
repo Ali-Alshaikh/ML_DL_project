@@ -8,7 +8,7 @@ this is a Machine Learning project:
 **used file:** Clean_Dataset.csv
 
 
-*Goal:* Predict Flight Prices
+**Goal:** Predict Flight Prices
 
 this project will implement various AI models: 
 - Decision Tree Regressor
