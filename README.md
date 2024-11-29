@@ -2,7 +2,9 @@ this is a Machine Learning project:
 
 
 **dataset used:** Flight Price Prediction
+
 **link:** https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data
+
 **used file:** Clean_Dataset.csv
 
 
